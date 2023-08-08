@@ -1,0 +1,393 @@
+.httpswwwfigmacomcommunit {
+    position: absolute;
+    top: 402px;
+    left: 800px;
+    font-size: var(--font-size-xs);
+    text-decoration: underline;
+    font-family: var(--font-inter);
+    color: inherit;
+  }
+  .unsplash1 {
+    text-decoration: underline;
+  }
+  .unsplash {
+    color: inherit;
+  }
+  .images-from-unsplash-container {
+    position: absolute;
+    top: 1622px;
+    left: 821px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-inter);
+    color: inherit;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 0;
+    left: 800px;
+    width: 513px;
+    height: 385px;
+    object-fit: cover;
+  }
+  .join-our-newsletter,
+  .krypto1 {
+    position: absolute;
+    top: 2911px;
+    left: 1388px;
+    font-size: var(--font-size-3xl);
+    display: inline-block;
+    width: 173px;
+  }
+  .join-our-newsletter {
+    top: 2910px;
+    left: 2104px;
+    width: 293px;
+  }
+  .home {
+    margin: 0;
+  }
+  .browse-nfts-buy-container,
+  .email-linkedin-instagram-container,
+  .home-about-buy-container {
+    position: absolute;
+    width: 2.8%;
+    top: 95.97%;
+    left: 64.97%;
+    font-size: var(--font-size-base);
+    line-height: 31px;
+    display: inline-block;
+  }
+  .browse-nfts-buy-container,
+  .email-linkedin-instagram-container {
+    width: 3.94%;
+    left: 70.87%;
+  }
+  .email-linkedin-instagram-container {
+    width: 3.01%;
+    left: 77.29%;
+  }
+  .krypto2 {
+    position: absolute;
+    left: 1599px;
+    display: inline-block;
+    width: 113px;
+  }
+  .contact1,
+  .krypto2,
+  .market {
+    top: 2911px;
+    font-size: var(--font-size-base);
+  }
+  .market {
+    position: absolute;
+    left: 1744px;
+    display: inline-block;
+    width: 123px;
+  }
+  .contact1 {
+    left: 1902px;
+    width: 128px;
+  }
+  .contact1,
+  .email-address,
+  .submit {
+    position: absolute;
+    display: inline-block;
+  }
+  .email-address {
+    width: 4.59%;
+    top: 97.27%;
+    left: 86.83%;
+    font-size: var(--font-size-base);
+    line-height: 31px;
+  }
+  .submit {
+    height: 0.55%;
+    width: 3.05%;
+    top: 97.43%;
+    left: 96.95%;
+    font-size: 14px;
+  }
+  .read-what-others-have-container {
+    position: absolute;
+    top: 70.66%;
+    left: 56.85%;
+  }
+  .lorem-ipsum-dolor {
+    position: absolute;
+    height: 3.35%;
+    width: 14.55%;
+    top: 76.32%;
+    left: 56.4%;
+    display: inline-block;
+  }
+  .are-you-ready,
+  .are-you-ready1,
+  .be-a-part-container,
+  .get-started {
+    position: absolute;
+    height: 1.53%;
+    width: 14.55%;
+    top: 81.85%;
+    left: 56.4%;
+    display: inline-block;
+  }
+  .are-you-ready1,
+  .be-a-part-container,
+  .get-started {
+    top: 84.65%;
+  }
+  .be-a-part-container,
+  .get-started {
+    top: 86.86%;
+  }
+  .get-started {
+    top: 89.66%;
+  }
+  .access,
+  .evan-white,
+  .jessica-page,
+  .olivia-cole,
+  .testimonials {
+    position: absolute;
+    top: 69%;
+    left: 56.4%;
+    line-height: 27.5px;
+  }
+  .access,
+  .evan-white,
+  .jessica-page,
+  .olivia-cole {
+    top: 74.72%;
+  }
+  .access,
+  .evan-white,
+  .jessica-page {
+    left: 62.94%;
+  }
+  .access,
+  .jessica-page {
+    left: 70.22%;
+  }
+  .access {
+    top: 56.8%;
+    left: 56.93%;
+    letter-spacing: 0.02em;
+  }
+  .get-started1,
+  .sell-your-nfts-container,
+  .with-our-easy-to-use {
+    position: absolute;
+    top: 58.59%;
+    left: 56.93%;
+    letter-spacing: 0.02em;
+  }
+  .get-started1,
+  .with-our-easy-to-use {
+    width: 5.04%;
+    top: 65.26%;
+    display: inline-block;
+  }
+  .with-our-easy-to-use {
+    top: 1887px;
+    left: 1399px;
+    line-height: 159.69%;
+    width: 427px;
+    height: 59px;
+  }
+  .objectother-12-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .objectother-12,
+  .objectother-17 {
+    position: absolute;
+    top: 910px;
+    left: 1084px;
+    width: 268px;
+    height: 268px;
+  }
+  .objectother-17 {
+    height: 8.2%;
+    width: 10.24%;
+    top: 30.55%;
+    right: 57.66%;
+    bottom: 61.26%;
+    left: 32.1%;
+  }
+  .objectother-18 {
+    position: absolute;
+    top: 556px;
+    left: 1084px;
+    width: 268px;
+    height: 268px;
+  }
+  .buy-nfts3,
+  .featured-on1,
+  .we-are-going {
+    position: absolute;
+    width: 15.16%;
+    top: 13.24%;
+    left: 56.4%;
+    line-height: 27.5px;
+    display: inline-block;
+  }
+  .buy-nfts3,
+  .featured-on1 {
+    top: 30.68%;
+    left: 56.85%;
+  }
+  .featured-on1 {
+    top: 32.56%;
+  }
+  .analytics,
+  .built-in-analytics-to,
+  .get-our-app,
+  .use-our-built-in,
+  .view-our-pricing {
+    position: absolute;
+    width: 15.16%;
+    top: 35.43%;
+    left: 56.85%;
+    line-height: 27.5px;
+    display: inline-block;
+  }
+  .built-in-analytics-to,
+  .get-our-app,
+  .use-our-built-in,
+  .view-our-pricing {
+    top: 45.9%;
+  }
+  .built-in-analytics-to,
+  .use-our-built-in,
+  .view-our-pricing {
+    top: 37.02%;
+  }
+  .use-our-built-in,
+  .view-our-pricing {
+    top: 42.39%;
+  }
+  .use-our-built-in {
+    width: 19.99%;
+    top: 38.61%;
+  }
+  .browse-nfts-from,
+  .download-on-ios,
+  .our-krypto-app,
+  .page-copy,
+  .sell-nfts2,
+  .this-font-is {
+    position: absolute;
+    width: 19.99%;
+    top: 47.69%;
+    left: 56.85%;
+    line-height: 27.5px;
+    display: inline-block;
+  }
+  .download-on-ios,
+  .our-krypto-app,
+  .page-copy,
+  .sell-nfts2,
+  .this-font-is {
+    top: 49.71%;
+  }
+  .download-on-ios,
+  .page-copy,
+  .sell-nfts2,
+  .this-font-is {
+    top: 52.18%;
+  }
+  .page-copy,
+  .sell-nfts2,
+  .this-font-is {
+    width: 15.16%;
+    top: 30.68%;
+    left: 61.68%;
+  }
+  .page-copy,
+  .this-font-is {
+    width: 27.55%;
+    top: 5.76%;
+    left: 56.4%;
+    font-size: var(--font-size-41xl);
+    line-height: 66px;
+    font-family: var(--font-outfit);
+  }
+  .page-copy {
+    top: 17.83%;
+    left: 56.85%;
+  }
+  .setup-materials-child {
+    left: 1566px;
+    background-color: #8080d7;
+  }
+  .setup-materials-child,
+  .setup-materials-inner,
+  .setup-materials-item {
+    position: absolute;
+    top: 10px;
+    width: 135px;
+    height: 135px;
+  }
+  .setup-materials-item {
+    left: 1390px;
+    background-color: var(--color-gray-100);
+  }
+  .setup-materials-inner {
+    left: 1738px;
+    background-color: #aad9d9;
+  }
+  .screen-shot-2022-05-09-at-102,
+  .screen-shot-2022-05-09-at-1021 {
+    position: absolute;
+    top: 1460px;
+    left: 830px;
+    width: 132px;
+    height: 134px;
+    object-fit: cover;
+  }
+  .screen-shot-2022-05-09-at-1021 {
+    left: 979px;
+    width: 126px;
+  }
+  .image-1-icon,
+  .image-9-icon,
+  .screen-shot-2022-05-09-at-1022 {
+    position: absolute;
+    top: 1460px;
+    left: 1122px;
+    width: 133px;
+    height: 134px;
+    object-fit: cover;
+  }
+  .image-1-icon,
+  .image-9-icon {
+    top: 0;
+    left: 0;
+    width: 518px;
+    height: 980px;
+  }
+  .image-1-icon {
+    left: 545px;
+    width: 218px;
+    height: 164px;
+  }
+  .setup-materials {
+    position: relative;
+    width: 100%;
+    height: 3074px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  

@@ -1,0 +1,277 @@
+.desktop-highlights-icon {
+  position: absolute;
+  top: -257px;
+  left: -397px;
+  width: 3201px;
+  height: 1228px;
+}
+.krypto {
+  position: absolute;
+  top: calc(50% - 17.88px);
+  left: calc(50% - 1200px);
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  width: 296.4px;
+  height: 3.83px;
+}
+.about,
+.krypto,
+.pricing {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.about {
+  position: absolute;
+  top: calc(50% - 17.88px);
+  left: calc(50% - 419.76px);
+  line-height: 27.5px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 162.15px;
+  height: 42.15px;
+}
+.pricing {
+  top: calc(50% - 16.61px);
+  left: calc(50% - 49.26px);
+  width: 197.89px;
+  height: 2.55px;
+}
+.buy-nfts,
+.contact,
+.pricing {
+  position: absolute;
+  line-height: 27.5px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.contact {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 17.88px);
+  left: calc(50% + 294.22px);
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  width: 200.51px;
+  height: 3.83px;
+}
+.buy-nfts {
+  top: calc(50% - 2.5px);
+  left: calc(50% + 704px);
+  width: 342px;
+  height: 48px;
+}
+.nav-bar {
+  position: absolute;
+  top: 257px;
+  left: 397px;
+  width: 2400px;
+  height: 327px;
+  text-align: center;
+  font-size: var(--font-size-36xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.objectother-07-icon {
+  position: absolute;
+  height: 100.87%;
+  width: 101.11%;
+  top: -0.92%;
+  right: -5.98%;
+  bottom: 0.05%;
+  left: 4.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.discover-and-collect,
+.objectother-07 {
+  position: absolute;
+  top: 8px;
+  left: 1499.56px;
+  width: 733.31px;
+  height: 912.04px;
+  transform: rotate(-0.62deg);
+  transform-origin: 0 0;
+}
+.discover-and-collect {
+  height: 56.21%;
+  width: 49.24%;
+  top: 29.67%;
+  left: 3.93%;
+  font-size: 128px;
+  letter-spacing: 0.1em;
+  line-height: 110%;
+  text-transform: capitalize;
+  display: inline-block;
+  transform: rotate(-0.24deg);
+}
+.the-most-secure {
+  margin: 0;
+}
+.the-most-secure-container {
+  position: absolute;
+  height: 21.97%;
+  width: 57.85%;
+  top: 76.91%;
+  left: 5.12%;
+  line-height: 50px;
+  display: inline-block;
+}
+.buy-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-47xl);
+  background-color: #8889ef;
+  width: 452.75px;
+  height: 144.56px;
+}
+.buy-nft {
+  position: absolute;
+  top: 44.78px;
+  left: 111.01px;
+  line-height: 50px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 278.62px;
+  height: 63.97px;
+}
+.buy-button,
+.sell-button-child {
+  position: absolute;
+  left: 0;
+  height: 144.56px;
+}
+.buy-button {
+  top: 1072.44px;
+  width: 452.75px;
+  color: var(--color-black);
+}
+.sell-button-child {
+  top: 0;
+  border-radius: var(--br-47xl);
+  border: 1px solid #7ec6d6;
+  box-sizing: border-box;
+  width: 559.82px;
+}
+.sell-nft {
+  position: absolute;
+  top: 44.78px;
+  left: 137.26px;
+  line-height: 50px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 344.51px;
+  height: 63.97px;
+  -webkit-text-stroke: 1px #7ec6d6;
+}
+.hero-area,
+.sell-button {
+  position: absolute;
+  top: 1072.44px;
+  left: 632.18px;
+  width: 559.82px;
+  height: 144.56px;
+}
+.hero-area {
+  top: 663px;
+  left: 452px;
+  width: 2241px;
+  height: 1217px;
+}
+.f {
+  text-transform: capitalize;
+}
+.eatured-on {
+  text-transform: lowercase;
+}
+.featured-on {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 84px;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 356px;
+  height: 66px;
+}
+.sponsorts-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0b132b;
+  width: 2441px;
+  height: 202px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 73px;
+  left: 919.71px;
+  width: 470.58px;
+  height: 47.3px;
+  object-fit: cover;
+}
+.image-6-icon,
+.image-7-icon,
+.image-8-icon {
+  position: absolute;
+  top: 32.86px;
+  left: 83.95px;
+  width: 528.02px;
+  height: 126.14px;
+  object-fit: cover;
+}
+.image-7-icon,
+.image-8-icon {
+  top: 62.96px;
+  left: 1652.74px;
+  width: 190px;
+  height: 67.37px;
+}
+.image-8-icon {
+  top: 70.13px;
+  left: 2120.65px;
+  width: 320.35px;
+  height: 53.04px;
+}
+.logos,
+.sponsorts {
+  position: absolute;
+  top: 141px;
+  left: 0;
+  width: 2441px;
+  height: 202px;
+}
+.logos {
+  top: 2167px;
+  left: 402px;
+  height: 343px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 4333px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
